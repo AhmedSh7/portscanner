@@ -1,0 +1,7 @@
+[
+  {
+    "port": 22,
+    "service": "ssh",
+    "banner": "SSH-2.0-OpenSSH_9.9"
+  }
+]
